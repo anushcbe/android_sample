@@ -1,2 +1,2 @@
 # android_sample
-Sample Program to teach Android Prgramming
+Sample Programs to teach Android Prgramming 
